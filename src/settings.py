@@ -1,0 +1,12 @@
+# Configurações gerais do jogo
+
+WIDTH, HEIGHT = 800, 600
+TILE_SIZE = 32
+FPS = 60
+
+# Cores
+COLOR_BG = (20, 20, 20)
+COLOR_FLOOR = (60, 60, 60)
+COLOR_WALL = (100, 100, 100)
+COLOR_PLAYER = (50, 200, 50)
+COLOR_TEXT = (255, 255, 255)
